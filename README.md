@@ -1,5 +1,6 @@
-#####Introduction
+##### Introduction
 This is my solution to the case provided by Bank Center Credit. They asked to build a personolized notification to client based on their behaivor.  
+
 This repository consist of the following:
 * **Folder Data**: It has the customer data provided by bcc. The files in this system will be used by notifier to create messages.
 * **Folder notebooks**: This folder has jupyter notebooks that I used to draft the projects
